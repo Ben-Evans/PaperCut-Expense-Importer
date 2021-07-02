@@ -1,0 +1,10 @@
+delete_input_file_after_procesing: false
+email_recipient: it@guardian.law
+email_sender: your_email_here@email.com
+email_sender_pw: your_email_password
+input_file_location: .\resources\input\PaperCut.txt
+output_file_history_days: 30
+output_file_path: .\resources\output
+send_email_on_error: true
+send_email_on_success: true
+time_keeper_intial: AW
